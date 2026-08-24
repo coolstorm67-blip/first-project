@@ -1,0 +1,14 @@
+C:\Users\lagos\Documents\firstProject\welcome 7\obj\Debug\net10.0\welcome 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lagos\Documents\firstProject\welcome 7\obj\Debug\net10.0\welcome 7.AssemblyInfoInputs.cache
+C:\Users\lagos\Documents\firstProject\welcome 7\obj\Debug\net10.0\welcome 7.AssemblyInfo.cs
+C:\Users\lagos\Documents\firstProject\welcome 7\obj\Debug\net10.0\welcome 7.csproj.CoreCompileInputs.cache
+C:\Users\lagos\Documents\firstProject\welcome 7\bin\Debug\net10.0\welcome 7.exe
+C:\Users\lagos\Documents\firstProject\welcome 7\bin\Debug\net10.0\welcome 7.deps.json
+C:\Users\lagos\Documents\firstProject\welcome 7\bin\Debug\net10.0\welcome 7.runtimeconfig.json
+C:\Users\lagos\Documents\firstProject\welcome 7\bin\Debug\net10.0\welcome 7.dll
+C:\Users\lagos\Documents\firstProject\welcome 7\bin\Debug\net10.0\welcome 7.pdb
+C:\Users\lagos\Documents\firstProject\welcome 7\obj\Debug\net10.0\welcome 7.dll
+C:\Users\lagos\Documents\firstProject\welcome 7\obj\Debug\net10.0\refint\welcome 7.dll
+C:\Users\lagos\Documents\firstProject\welcome 7\obj\Debug\net10.0\welcome 7.pdb
+C:\Users\lagos\Documents\firstProject\welcome 7\obj\Debug\net10.0\welcome 7.genruntimeconfig.cache
+C:\Users\lagos\Documents\firstProject\welcome 7\obj\Debug\net10.0\ref\welcome 7.dll
